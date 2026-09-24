@@ -1,0 +1,12 @@
+apple
+banana
+orange
+grape
+apple
+pineapple
+banana
+10
+20
+30
+40
+50
